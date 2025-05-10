@@ -1,6 +1,6 @@
 # 🌟 About Me  
 
-👋 Hi there! I'm a **Web Developer** at **Hyperleen** and a **Computer Science Student** in my **5th semester** at **FAST University**.  
+👋 Hi there! I'm a **Frontend Engineer** at **Hyperleen** and a **Computer Science Student** in my **6th semester** at **FAST University**.  
 I’m passionate about creating cutting-edge, user-friendly web applications that solve real-world problems. 💻  
 
 ---
