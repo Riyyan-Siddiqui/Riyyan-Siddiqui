@@ -43,12 +43,12 @@ I’m passionate about creating cutting-edge, user-friendly web applications tha
 
 ## 📫 Contact Me  
 
-- 📧 **Email**: developer@samplemail.com  
-- 📱 **Phone**: +123 456 7890  
+- 📧 **Email**: riyyan.s.24@gmail.com 
+- 📱 **Phone**: +92 3361828474
 - 🌐 **Portfolio**: [yourportfolio.com](#)  
 - 🐦 **Twitter**: [@yourhandle](#)  
-- 💼 **LinkedIn**: [linkedin.com/in/yourname](#)  
-- 🌟 **GitHub**: [github.com/yourusername](#)  
+- 💼 **LinkedIn**: [[linkedin.com/in/yourname](#)](https://www.linkedin.com/in/riyyan-siddiqui-8a5238240/)  
+- 🌟 **GitHub**:  https://github.com/Riyyan-Siddiqui
 
 ---
 
