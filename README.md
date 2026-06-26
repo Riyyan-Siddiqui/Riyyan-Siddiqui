@@ -1,64 +1,66 @@
-# 🌟 About Me  
+# 👋 Hi, I'm Riyyan Siddiqui
 
-👋 Hi there! I'm a **Frontend Engineer** at **Hyperleen** and a **Computer Science Student** in my **6th semester** at **FAST University**.  
-I’m passionate about creating cutting-edge, user-friendly web applications that solve real-world problems. 💻  
+## AI Full Stack Engineer
 
----
+I'm a Full Stack Engineer with professional experience building production web and mobile applications using **React, Next.js, TypeScript, Node.js, Express, PostgreSQL, and MongoDB**.
 
-## 🔭 What I Do  
+Over the past year I've focused on building complete software products—from authentication systems and SaaS applications to AI-powered web platforms and assistive technologies. My recent work centers around integrating **Large Language Models (LLMs)** into modern full-stack applications.
 
-- 🌐 **Frontend Magic**: Designing intuitive UIs with **React**, **Vue.js**, and **modern CSS frameworks**.  
-- ⚙️ **Backend Engineering**: Developing scalable APIs using **Node.js**, **Express**, and database solutions like **MongoDB** & **PostgreSQL**.  
-- 📱 **Responsive Design**: Ensuring optimal performance across devices and platforms.  
-- 🌟 **Lifelong Learner**: Exploring **Web3**, **AI integration in web apps**, and **cloud technologies**.  
+### 🚀 What I Build
 
----
+* Production-ready full-stack applications
+* AI-powered web applications using LLMs (Groq SDK)
+* Secure authentication & authorization systems
+* REST APIs and scalable backend services
+* Modern React & Next.js applications
 
-## 🏆 Highlights  
+### 🛠 Tech Stack
 
-- 🎯 Successfully delivered **5+ real-world projects** at Hyperleen with exceptional client satisfaction.  
-- 🌍 Contributed to **open-source projects**, gaining experience in collaboration and large-scale codebases.  
-- 🎓 Excelled in academic projects, specializing in **web technologies**, **algorithms**, and **software engineering**.  
-- 🚀 Currently developing a personal project: **AI-powered task management system** for web professionals.  
+**Frontend**
 
----
+* React
+* Next.js
+* React Native
+* TypeScript
+* Tailwind CSS
+* Redux Toolkit
 
-## 📜 Certifications  
+**Backend**
 
-- 🏅 **Frontend Development**: *Certified React Developer* by [Coursera](#).  
-- 🏅 **Backend Development**: *Node.js & Express Mastery* by [Udemy](#).  
-- 🏅 **Cloud Computing**: *AWS Cloud Practitioner Essentials* by [AWS Academy](#).  
-- 🏅 **Version Control**: *Git & GitHub Essentials* by [freeCodeCamp](#).  
+* Node.js
+* Express.js
+* NestJS
+* REST APIs
+* JWT Authentication
 
----
+**Databases**
 
-## 🏅 Achievements  
+* MongoDB
+* PostgreSQL
+* MySQL
 
-- 🏆 **Hackathon Winner**: Secured **1st place** in **FAST Coders Hackathon 2024**, building an innovative e-learning platform.  
-- ⭐ **Dean’s Honor List**: Recognized for academic excellence in 3 consecutive semesters.  
-- 📢 **Speaker**: Delivered a talk on **"Modern Web Development Trends"** at a university seminar.  
-- 📖 Published an article on **"The Future of Web3 in Development"** in a student tech magazine.  
+**AI**
 
----
+* LLM Integration
+* Groq SDK
+* Prompt Engineering
+* Whisper
+* EasyOCR
+* YOLOv8
 
-## 📫 Contact Me  
+**Cloud & DevOps**
 
-- 📧 **Email**: riyyan.s.24@gmail.com 
-- 📱 **Phone**: +92 3361828474
-- 🌐 **Portfolio**: [yourportfolio.com](#)  
-- 🐦 **Twitter**: [@yourhandle](#)  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/riyyan-siddiqui-8a5238240/
-- 🌟 **GitHub**:  https://github.com/Riyyan-Siddiqui
+* Docker
+* AWS EC2
+* GitHub Actions
+* CI/CD
+* Cloudinary
 
----
+### 🏆 Highlights
 
-## 🚀 Tech Stack  
+* Former Frontend Engineer at Cipherlabs
+* NIC Karachi Shortlisted – AI Assistant for Visually Impaired
+* 1st Place – Code in the Dark (Procom)
+* Runner-up – Code in the Dark (DevDay)
 
-- 🖌️ **Frontend**: HTML, CSS, JavaScript, React, Vue.js, TailwindCSS, Bootstrap.  
-- ⚙️ **Backend**: Node.js, Express, MongoDB, PostgreSQL.  
-- 🌐 **Tools & Platforms**: Git, Docker, Firebase, AWS, Vercel.  
-- 📱 **Other Interests**: Web3, AI in Web Development, and SaaS apps.  
-
----
-
-**Let’s connect and innovate together! 🚀**
+I'm always interested in building products that combine modern full-stack development with practical AI capabilities.
